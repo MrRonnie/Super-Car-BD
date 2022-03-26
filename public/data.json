@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Audi",
+      "price": 49000,
+      "img": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Red Ferrari",
+      "price": 78000,
+      "img": "https://images.unsplash.com/photo-1617917572835-5ab878656dcf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Orange McLaren",
+      "price": 59000,
+      "img": "https://images.unsplash.com/photo-1615653321172-c90763f4f2b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Nissan GTR",
+      "price": 64900,
+      "img": "https://images.unsplash.com/photo-1609964729554-a02fb2a04830?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Red Ford Mustang",
+      "price": 99999,
+      "img": "https://images.unsplash.com/photo-1573074596012-ad09948dbd8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=504&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Yellow Lamborghini",
+      "price": 14900,
+      "img": "https://images.unsplash.com/photo-1627916607164-7b20241db935?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Red Corvette",
+      "price": 56800,
+      "img": "https://images.unsplash.com/photo-1549067252-b85e7e270911?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Porsche Turbo S",
+      "price": 126000,
+      "img": "https://images.unsplash.com/photo-1570374910698-6db3d787e6fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
+    },
+    {
+      "id": 9,
+      "name": "Sliver Porsche",
+      "price": 69400,
+      "img": "https://images.unsplash.com/photo-1543796559-9f8555fbedc9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "id": 10,
+      "name": "Orange Maserati",
+      "price": 89900,
+      "img": "https://images.unsplash.com/photo-1555598508-ad77e834531d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "id": 11,
+      "name": "gray lamborghini",
+      "price": 596900,
+      "img": "https://images.unsplash.com/photo-1519245659620-e859806a8d3b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "id": 1,
+      "name": "White Suv Mercedes",
+      "price": 514900,
+      "img": "https://images.unsplash.com/photo-1559038465-e0ca2910a5b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    }
+  ]

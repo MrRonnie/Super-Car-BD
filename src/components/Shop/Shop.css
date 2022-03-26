@@ -1,0 +1,117 @@
+.shop-full-body {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  grid-gap: 5px;
+  padding-bottom: 50px;
+}
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-row-gap: 40px;
+  margin-top: 20px;
+  padding-left: 20px;
+}
+.cart-section {
+  border-radius: 5px;
+  margin-top: 20px;
+  color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  background-color: #2d25a0;
+  height: 450px;
+  margin-right: 20px;
+  position: sticky;
+  top: 0;
+}
+.cart-name-div {
+  margin-left: 20px;
+}
+.choose-one-again-btn {
+  background-color: white;
+  border: none;
+  color: #2d25a0;
+  border: 1px solid white;
+  font-weight: 600;
+  border-radius: 5px;
+  padding: 2px 7px;
+}
+.choose-one-again-btn:hover {
+  background-color: rgba(129, 207, 238, 0.945);
+}
+.choose-btn-div {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.close-modal-btn {
+  border: none;
+  background-color: #2d25a0;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 3px;
+  margin-left: 50px;
+}
+
+.modal-img {
+  width: 400px;
+  height: 280px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.Modal {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  top: 50%;
+  left: 50%;
+  right: auto;
+  bottom: auto;
+  background-color: white;
+  border: 2px solid #2d25a0;
+  transform: translate(-50%, -50%);
+}
+.Modal h2 {
+  text-align: center;
+}
+.qna {
+  border: 1px solid black;
+  text-align: justify;
+  margin: 15px;
+  padding: 20px;
+}
+@media screen and (max-width: 600px) {
+  .modal-img {
+    width: 240px;
+    height: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .Modal h2 {
+    margin-left: 20px;
+  }
+  .Modal h4 {
+    margin-left: 20px;
+  }
+  .close-modal-btn {
+    margin-left: 20px;
+  }
+
+  .Modal {
+    width: 280px;
+    height: 500px;
+  }
+
+  .shop-full-body {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+  }
+  .card-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
