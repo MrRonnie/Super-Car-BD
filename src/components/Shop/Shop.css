@@ -79,13 +79,13 @@
 .Modal h2 {
   text-align: center;
 }
-.qna {
-  border: 1px solid black;
+.question-answer {
+  border: 1px solid rgb(73, 73, 73);
   text-align: justify;
   margin: 15px;
   padding: 20px;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 680px) {
   .modal-img {
     width: 240px;
     height: 200px;
