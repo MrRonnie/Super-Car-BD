@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Super Car BD
+
+this is my project name Super Car BD
+
+## Live website: https://super-car-bd.netlify.app/
+
+This is my website live link. Hopefully you will like it!!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

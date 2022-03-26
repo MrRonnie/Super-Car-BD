@@ -134,7 +134,7 @@ React has a few different kinds of components like --
 
                 </div>
                 <div className='choose-btn-div'>
-                    <button className='choose-one-again-btn' onClick={randomCarChoose}>Choose One For Me</button>
+                    <button className='choose-one-again-btn' onClick={randomCarChoose}>Choose One Car !!</button>
                     <br />
                     <button className='choose-one-again-btn' onClick={chooseAgain}>Choose Again</button>
                 </div>
