@@ -1,0 +1,15 @@
+.selected-car {
+  color: white;
+}
+.small-rounded-img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.selected-carName-img {
+  display: flex;
+  align-items: center;
+}
+.selected-carName-img p {
+  margin-left: 20px;
+}
